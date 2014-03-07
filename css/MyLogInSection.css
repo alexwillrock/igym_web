@@ -1,0 +1,67 @@
+#MyLogInSection{
+	width: 30%;
+	height: 30%;
+	border: 3px solid black;
+	margin-top: 10%;
+	margin-left: 55%;
+	
+	/*закругляем края для блкока*/
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+
+
+#MyLogInTable{
+	width: 100%;	
+}
+
+#MyLogIn{
+	font-size: large;
+	width: 100%;
+	
+	border: solid 1px;
+	
+	/*чтобы инпут не вылезал за поля*/
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	
+	/*закругляем края для блкока*/
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+#MyPassword{
+	font-size: large;
+	width: 100%;
+	
+	border: solid 1px;
+	
+	/*чтобы инпут не вылезал за поля*/
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	
+	/*закругляем края для блкока*/
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+#MyLogInButton{
+	font-size: large;
+	width: 100%;
+	border: solid 1px black;
+	
+	/*круглые края для кнопки*/
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+#RememberMeChecked{
+	font-size: smaller;
+	color: gray;	
+	float: right;
+}
